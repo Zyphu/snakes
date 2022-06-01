@@ -18,7 +18,7 @@ python snakes.py
 <img src="/main-menu.png">
 
 ### Countdown
-<img src="/countdown">
+<img src="/countdown.png">
 
 ### Single Player
-<img src="/singleplayer">
+<img src="/singleplayer.png">
